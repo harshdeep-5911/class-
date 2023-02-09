@@ -1,4 +1,4 @@
 # class-
-This is class
+This is SCM class
 This is Harshdeep Singh
-This is Harmandeep Singh
+
